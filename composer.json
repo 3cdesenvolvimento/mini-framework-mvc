@@ -1,0 +1,17 @@
+{
+    "name": "3cdesenvolvimento/mini-framework-mvc",
+    "description": "Desenvolvimento para aprendizagem de um mini framework MVC",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Claudinei de Oliveira",
+            "email": "claudinei@3cdesenvolvimento.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
