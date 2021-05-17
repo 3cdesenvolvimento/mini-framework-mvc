@@ -63,9 +63,10 @@ Options All -Indexes
 13 Criar uma chave público/privada na máquina local para efetuar os push's no github sem precisar digitar uma senha / Alterei a configuração remote.origin.url
 
 14 Depois das alterações feitas, executar:
-
+```
 $ git add -A
 
 $ git commit -m "..."
 
 $ git push origin master
+```
